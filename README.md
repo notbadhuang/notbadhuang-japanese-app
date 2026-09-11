@@ -4,6 +4,15 @@
 
 本仓库用于分发应用安装包、版本说明与更新清单，不是研发源码仓库。
 
+## 当前版本：0.1.1
+
+Mac 与 Windows 已同步上线。
+
+- [Mac 下载（Apple 芯片，macOS 15 及以上）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-mac-v0.1.1-build31)
+- [Windows 下载（64 位）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-windows-v0.1.1-build15)
+
+Mac 开发者签名与公证暂未完成，首次打开可能需要在系统设置中允许打开。
+
 ## 安装与更新
 
 从本仓库 Releases 下载对应系统的安装包，并按向导操作。升级时关闭正在运行的课程，沿用原安装位置及学习记录；如需重新安装，可选择已有学习记录文件夹继续。请保留学习记录，勿手动删除。
