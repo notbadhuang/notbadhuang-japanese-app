@@ -4,12 +4,12 @@
 
 本仓库用于分发应用安装包、版本说明与更新清单，不是研发源码仓库。
 
-## 当前版本：0.1.1
+## 当前版本：0.1.3
 
 Mac 与 Windows 已同步上线。
 
-- [Mac 下载（Apple 芯片，macOS 15 及以上）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-mac-v0.1.1-build31)
-- [Windows 下载（64 位）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-windows-v0.1.1-build15)
+- [Mac 下载（Apple 芯片，macOS 15 及以上）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-mac-v0.1.3-build33)
+- [Windows 下载（64 位）](https://github.com/notbadhuang/notbadhuang-japanese-app/releases/tag/desktop-windows-v0.1.3-build18)
 
 Mac 开发者签名与公证暂未完成，首次打开可能需要在系统设置中允许打开。
 
