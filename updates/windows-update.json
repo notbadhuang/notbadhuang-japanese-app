@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "product": "notbadhuang-japanese",
+  "platform": "windows-x64",
+  "version": "0.1.4",
+  "sequence": 19,
+  "minimum_version": "0.0.1",
+  "date": "2026-09-18",
+  "notes": [
+    "版本显示统一为 0.1.4。",
+    "优化检查更新方式，Mac 与 Windows 使用同一版本发布页。"
+  ],
+  "size": 70199391,
+  "sha256": "bb7afa225849670f92cc0b84c2966900128c0d4949ab3c4dd37413a38364ca5a",
+  "urls": [
+    "https://cnb.cool/notbadhuang-japanese/notbadhuang-japanese-app/-/releases/download/v0.1.4/notbadhuang-japanese-setup.exe",
+    "https://github.com/notbadhuang/notbadhuang-japanese-app/releases/download/v0.1.4/notbadhuang-japanese-setup.exe"
+  ]
+}
