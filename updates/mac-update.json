@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "product": "notbadhuang-japanese",
+  "platform": "mac-arm64",
+  "version": "0.1.4",
+  "sequence": 34,
+  "minimum_version": "0.0.1",
+  "date": "2026-09-18",
+  "notes": [
+    "版本显示统一为 0.1.4。",
+    "优化检查更新方式，Mac 与 Windows 使用同一版本发布页。"
+  ],
+  "size": 167447632,
+  "sha256": "7df1cac9bf35dbd5b4a296fb861227db038e7880bc59d194d4eae6d11e2991ba",
+  "urls": [
+    "https://cnb.cool/notbadhuang-japanese/notbadhuang-japanese-app/-/releases/download/v0.1.4/notbadhuang-japanese.dmg",
+    "https://github.com/notbadhuang/notbadhuang-japanese-app/releases/download/v0.1.4/notbadhuang-japanese.dmg"
+  ]
+}
